@@ -1,7 +1,8 @@
 CACHE MANIFEST
 # Resources to cache – it is a comment
 CACHE:
-HTML5.html
+index.html 
+
 images/resume.jpg
 
 
